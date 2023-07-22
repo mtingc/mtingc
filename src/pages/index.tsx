@@ -1,8 +1,10 @@
+import { MainLayout } from "@/layouts";
+
 const Home = () => {
   return (
-    <div>
+    <MainLayout>
       Mting
-    </div>
+    </MainLayout>
   )
 }
 

@@ -12,7 +12,10 @@ export const navLinks = [
     path: "/about-me",
   },
 ];
-import logo from "../public/logo_blanco.svg";
+const logo = {
+  src: "/logo_blanco.svg",
+  alt: "Mtingc Logo",
+}
 const socialsLinks = [
   {
     name: "Github",
