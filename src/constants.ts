@@ -31,10 +31,10 @@ const socialsLinks = [
 
 // Hero Section
 const heroImage = {
-  src: "../public/workDay.jpg",
+  src: "/workDay.jpg",
   alt: "A workday with Martín",
 };
-const cv = "../public/mtingc_CV.pdf";
+const cv = "/mtingc_CV.pdf";
 
 // Experience
 const experiences: IExperience[] = [

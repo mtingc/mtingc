@@ -1,9 +1,10 @@
+import { Hero } from "@/components";
 import { MainLayout } from "@/layouts";
 
 const Home = () => {
   return (
     <MainLayout>
-      Mting
+      <Hero/>
     </MainLayout>
   )
 }

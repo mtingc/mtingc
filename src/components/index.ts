@@ -3,4 +3,6 @@ import Navbar from "./Navbar";
 import Socials from "./Socials";
 import Footer from "./Footer";
 
-export { Logo, Navbar, Socials, Footer };
+import Hero from "./Hero";
+
+export { Logo, Navbar, Socials, Footer, Hero };
