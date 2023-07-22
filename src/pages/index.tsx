@@ -1,13 +1,13 @@
-import { Hero } from "@/components";
+import { Hero, Skills } from "@/components";
 import { MainLayout } from "@/layouts";
 
 const Home = () => {
   return (
     <MainLayout>
-      <Hero/>
+      <Hero />
+      <Skills />
     </MainLayout>
-  )
-}
-
+  );
+};
 
 export default Home;
