@@ -54,7 +54,7 @@ const Hero = () => {
               className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl"
             >
               <h1 className="text-4xl font-bold tracking-wider text-slate-200 sm:text-6xl">
-                Hi, I&apos;m{" "}
+                Hi, I&rsquo;m{" "}
                 <motion.span
                   initial="initial"
                   animate="animate"
@@ -64,11 +64,10 @@ const Hero = () => {
                 </motion.span>
               </h1>
               <p className="mt-6 text-lg leading-8 text-slate-200">
-                With a solid 5-year experience, I have proven to be a passionate
-                and proactive professional. My self-taught skills have allowed
-                me to learn autonomously both the English language and the most
-                relevant web technologies, such as JavaScript, TypeScript,
-                Node.js, Angular, React, among others.
+                With over 5 years of hands-on experience in full-stack web
+                development, I&rsquo;a proactive problem solver and effective
+                communicator. My passion for crafting solutions has driven me to
+                excel in collaborating within team environments.
               </p>
               <div className="mt-10 flex items-center gap-x-6">
                 <Link

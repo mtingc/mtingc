@@ -15,7 +15,7 @@ export const navLinks = [
 const logo = {
   src: "/logo_blanco.svg",
   alt: "Mtingc Logo",
-}
+};
 const socialsLinks = [
   {
     name: "Github",
@@ -123,6 +123,10 @@ const skills = [
   {
     name: "Backend",
     strength: true,
+  },
+  {
+    name: "Docker",
+    strength: false,
   },
   {
     name: "English",

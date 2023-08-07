@@ -25,7 +25,7 @@ const Navbar = () => {
       } transition-all duration-300`}
     >
       <div className="container mx-auto">
-        <div className="flex flex-col lg:flex-row justify-between items-center">
+        <div className="flex flex-col lg:flex-row justify-between items-center my-4 lg:my-0">
           {/* logo */}
           <Logo />
           {/* socials */}
